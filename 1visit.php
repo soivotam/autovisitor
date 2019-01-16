@@ -259,8 +259,8 @@ class autovisitor extends Random_UA {
 	}
 
 } 
-
-for($i = 1; $i < $max+1; $i++) {
+Hay nói, là một tài tài của, qua, qua, qua một khác, qua giữ, qua một tài khác
+for($i = 1; $i < $max+30; $i++) {
 	$class = new autovisitor($url);
 	echo $i.". VISITOR TERKIRIM MELALUI REFERER - [".$class->jalankan()."\n";
 }
